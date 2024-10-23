@@ -1,0 +1,22 @@
+.canvas {
+  align-items: center;
+  border: 4px solid #787c7e;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  user-select: none;
+  width: 100%;
+}
+
+.canvas-row {
+  display: flex;
+}
+
+.canvas-cell {
+  width: 10px;
+  height: 10px;
+  box-sizing: border-box;
+  border: 1px solid #f0f0f0;
+  outline: none;
+}
