@@ -107,4 +107,7 @@ npm run dev
 The app will run on http://localhost:5173. Open this URL in your browser to interact with the application.
 
 ## Demonstration
+
+Check out the live version of the web-app here: [Pixel Art Paint App]((https://pixel-art-paint-app.netlify.app/)
+
 https://github.com/user-attachments/assets/9cd156c9-3cbe-44ec-9fd8-8189ac069c67
